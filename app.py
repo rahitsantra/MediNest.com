@@ -16,7 +16,6 @@ class MedicalDatabase:
             'chest_pain': {'conditions': ['heart_attack', 'angina', 'anxiety'], 'severity': 'high'},
             'cough': {'conditions': ['cold', 'flu', 'pneumonia'], 'severity': 'medium'},
             'shortness_of_breath': {'conditions': ['asthma', 'pneumonia', 'heart_failure'], 'severity': 'high'},
-            'nausea': {'conditions': ['food_poisoning', 'pregnancy', 'anxiety'], 'severity': 'medium'},
             'fatigue': {'conditions': ['anemia', 'depression', 'thyroid'], 'severity': 'low'},
             'dizziness': {'conditions': ['low_blood_pressure', 'dehydration', 'vertigo'], 'severity': 'medium'}
         }
