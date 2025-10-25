@@ -330,5 +330,3 @@ function displayHistory(data) {
 
 
 
-
-
